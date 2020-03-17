@@ -3,4 +3,8 @@ jajaj si funciona
 :)
 crea un cambio desde master
 
+<<<<<<< HEAD
 un cambio desde master
+=======
+cambios desde rama 3
+>>>>>>> rama-3
